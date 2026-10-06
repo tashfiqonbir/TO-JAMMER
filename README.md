@@ -1,2 +1,2 @@
 # TO-JAMMER
-Use only for education purpose ⚠️
+# Use only for education purpose ⚠️
